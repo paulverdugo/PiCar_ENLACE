@@ -1,3 +1,4 @@
+# python3 tracker3.py --modeldir=coco_ssd_mobilenet_v1
 ######## Webcam Object Detection Using Tensorflow-trained Classifier #########
 #
 # Author: Evan Juras
